@@ -7,7 +7,8 @@ Je suis un passioné de développement web et ce depuis plus de 10 ans maintenan
 
 **Langages** : Javascript/Typescript - CSS/SASS - HTML/php/twig
 
-**Librairies/Frameworks** : ReactJS/NextJS - VueJS/NuxtJS - Node.js/Nest.js
+**Librairies/Frameworks** : SvelteJS/SvelteKit / ReactJS/NextJS - VueJS/NuxtJS / Node.js/Nest.js
+
+**Tools** : Supabase / Vercel / Render
 
 **Bases de données** : Prisma/PostgreSQL - MYSQL
-
